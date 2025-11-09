@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/IoOWLHUz)
 ## Your Info:
 
-Matric Number:  
-Name:
+Matric Number:  292728
+Name: Shantini Selvam
 
 ## Objective
 
@@ -46,10 +46,18 @@ https://<yourusername>.github.io/my-resume-site/
 1. Add your Matric Number and Name.
 2. Add your Resume link below.
 3. Write the mistake in the git or GitHub instructions.
+   
 
 ## What is the mistake?
+- Pushing to a repository that doesn’t exist yet
+- Incorrect command syntax: git add. instead of git add .
+- Trying to change visibility of a forked private repository
+- Remote already exists: using git remote add origin when origin is already set
+- Wrong GitHub username in remote URL
+- Image not displaying due to incorrect path, filename, or missing commi
 
-## Link to your Resume
+
+## Link to your Resume:https://shantiniselvam4-source.github.io/resume-website/
 
 ## Link of YouTube References (at least five references)
 
